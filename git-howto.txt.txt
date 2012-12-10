@@ -11,4 +11,9 @@ git config --global user.name "nama"
 
 5. commit (save) ke rory localeposit
 
+<<<<<<< HEAD
 HALO CEWEK, KENALAN DONG ;P
+=======
+
+Menambahkan kata ajeng.. kapan mau merried ya ?
+>>>>>>> 0dc544ad21542bb7a6fb6317a288d191fc6f4e4a
