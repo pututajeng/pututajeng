@@ -1,0 +1,12 @@
+# Membuat Repository baru #
+
+1. Buat folder kosong
+2. inisialisasi repository Git
+	git init
+3. Buat ignor file
+4. setup username dan email
+
+git config --global user.email "email"
+git config --global user.name "nama"
+
+5. commit (save) ke rory localeposit

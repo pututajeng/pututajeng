@@ -1,0 +1,4 @@
+# ignore hasil compile
+
+*.class
+*.jar
