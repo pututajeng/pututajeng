@@ -10,3 +10,5 @@ git config --global user.email "email"
 git config --global user.name "nama"
 
 5. commit (save) ke rory localeposit
+
+HALO CEWEK, KENALAN DONG ;P
